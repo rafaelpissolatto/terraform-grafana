@@ -1,2 +1,0 @@
-# terraform-grafana
-terraform-grafana
